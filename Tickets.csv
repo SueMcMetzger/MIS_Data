@@ -1,4 +1,4 @@
-﻿TicketNumber,DLNumber,TicketDate,City,PrimaryFactor,OfficerBadgeNumber,Fine
+﻿TicketNumber,DLNumber,TicketDate,City,Violation,OfficerBadgeNumber,Fine
 4235879527,12348279,7/5/2026,Buffalo,Unsafe Speed,A00032567,360
 4235879530,12346123,7/7/2026,New York,passing/lane violations,A00061444,150
 4235879534,12389049,7/11/2026,Utica,Passing/Lane Violations,A00045729,130
